@@ -45,3 +45,12 @@
 .field::placeholder {
   padding-left: 10px;
 }
+
+.field-msg {
+  position: relative;
+  font-size: 12px;
+  width: 0;
+  height: 0;
+  padding: 0;
+  margin: 0;
+}
